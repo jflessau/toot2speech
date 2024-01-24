@@ -1,0 +1,1424 @@
+[
+  {
+    "id": "111804684417566884",
+    "created_at": "2024-01-23T10:01:35.728Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "de",
+    "uri": "https://social.tchncs.de/users/BahnAnsagen/statuses/111804684417566884",
+    "url": "https://social.tchncs.de/@BahnAnsagen/111804684417566884",
+    "replies_count": 1,
+    "reblogs_count": 16,
+    "favourites_count": 65,
+    "edited_at": null,
+    "content": "\u003cp\u003e\u0026quot;Ich hoffe, es geht Ihnen allen gut und Sie sind nicht - so wie ich eben - draußen so richtig auf\u0026#39;n Pobbes gefallen, weil\u0026#39;s sauglatt ist. Gehen Sie am besten nicht auf den Bahnsteig!\u0026quot; (\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://chaos.social/@stk\" class=\"u-url mention\"\u003e@\u003cspan\u003estk\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e) \u003ca href=\"https://social.tchncs.de/tags/BahnAnsagen\" class=\"mention hashtag\" rel=\"tag\"\u003e#\u003cspan\u003eBahnAnsagen\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "reblog": null,
+    "application": { "name": "Buffer", "website": "https://buffer.com" },
+    "account": {
+      "id": "23307",
+      "username": "BahnAnsagen",
+      "acct": "BahnAnsagen",
+      "display_name": "BahnAnsagen",
+      "locked": false,
+      "bot": false,
+      "discoverable": true,
+      "group": false,
+      "created_at": "2017-04-10T00:00:00.000Z",
+      "note": "\u003cp\u003e.:Für alle Lautsprecherdurchsagen, die zu schön sind, um vergessen zu werden:. Twitter | Instagram | Facebook | TikTok: \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://social.tchncs.de/@BahnAnsagen\" class=\"u-url mention\"\u003e@\u003cspan\u003eBahnAnsagen\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+      "url": "https://social.tchncs.de/@BahnAnsagen",
+      "uri": "https://social.tchncs.de/users/BahnAnsagen",
+      "avatar": "https://f2.tchncs.de/accounts/avatars/000/023/307/original/4e8b2e0699076621.jpg",
+      "avatar_static": "https://f2.tchncs.de/accounts/avatars/000/023/307/original/4e8b2e0699076621.jpg",
+      "header": "https://f2.tchncs.de/accounts/headers/000/023/307/original/de74795bf470b94e.png",
+      "header_static": "https://f2.tchncs.de/accounts/headers/000/023/307/original/de74795bf470b94e.png",
+      "followers_count": 13757,
+      "following_count": 13,
+      "statuses_count": 728,
+      "last_status_at": "2024-01-23",
+      "noindex": false,
+      "emojis": [],
+      "roles": [],
+      "fields": [
+        {
+          "name": "BahnAnsagen",
+          "value": "\u003ca href=\"http://bahnansagen.de/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttp://\u003c/span\u003e\u003cspan class=\"\"\u003ebahnansagen.de/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+          "verified_at": null
+        }
+      ]
+    },
+    "media_attachments": [],
+    "mentions": [
+      {
+        "id": "81294",
+        "username": "stk",
+        "url": "https://chaos.social/@stk",
+        "acct": "stk@chaos.social"
+      }
+    ],
+    "tags": [
+      {
+        "name": "bahnansagen",
+        "url": "https://social.tchncs.de/tags/bahnansagen"
+      }
+    ],
+    "emojis": [],
+    "card": null,
+    "poll": null
+  },
+  {
+    "id": "111798937300144192",
+    "created_at": "2024-01-22T09:40:01.675Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "de",
+    "uri": "https://social.tchncs.de/users/BahnAnsagen/statuses/111798937300144192",
+    "url": "https://social.tchncs.de/@BahnAnsagen/111798937300144192",
+    "replies_count": 1,
+    "reblogs_count": 14,
+    "favourites_count": 59,
+    "edited_at": null,
+    "content": "\u003cp\u003e\u0026quot;Der Fahrdienstleiter hat uns einfach vergessen. Passiert ja schon mal, wenn man vergisst, was man eigentlich tut. Die Verspätung wird Ihnen heute also präsentiert vom Fahrdienstleiter Rheinhausen!\u0026quot; (\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://ruhr.social/@amki\" class=\"u-url mention\"\u003e@\u003cspan\u003eamki\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e) \u003ca href=\"https://social.tchncs.de/tags/BahnAnsagen\" class=\"mention hashtag\" rel=\"tag\"\u003e#\u003cspan\u003eBahnAnsagen\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "reblog": null,
+    "application": { "name": "Buffer", "website": "https://buffer.com" },
+    "account": {
+      "id": "23307",
+      "username": "BahnAnsagen",
+      "acct": "BahnAnsagen",
+      "display_name": "BahnAnsagen",
+      "locked": false,
+      "bot": false,
+      "discoverable": true,
+      "group": false,
+      "created_at": "2017-04-10T00:00:00.000Z",
+      "note": "\u003cp\u003e.:Für alle Lautsprecherdurchsagen, die zu schön sind, um vergessen zu werden:. Twitter | Instagram | Facebook | TikTok: \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://social.tchncs.de/@BahnAnsagen\" class=\"u-url mention\"\u003e@\u003cspan\u003eBahnAnsagen\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+      "url": "https://social.tchncs.de/@BahnAnsagen",
+      "uri": "https://social.tchncs.de/users/BahnAnsagen",
+      "avatar": "https://f2.tchncs.de/accounts/avatars/000/023/307/original/4e8b2e0699076621.jpg",
+      "avatar_static": "https://f2.tchncs.de/accounts/avatars/000/023/307/original/4e8b2e0699076621.jpg",
+      "header": "https://f2.tchncs.de/accounts/headers/000/023/307/original/de74795bf470b94e.png",
+      "header_static": "https://f2.tchncs.de/accounts/headers/000/023/307/original/de74795bf470b94e.png",
+      "followers_count": 13757,
+      "following_count": 13,
+      "statuses_count": 728,
+      "last_status_at": "2024-01-23",
+      "noindex": false,
+      "emojis": [],
+      "roles": [],
+      "fields": [
+        {
+          "name": "BahnAnsagen",
+          "value": "\u003ca href=\"http://bahnansagen.de/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttp://\u003c/span\u003e\u003cspan class=\"\"\u003ebahnansagen.de/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+          "verified_at": null
+        }
+      ]
+    },
+    "media_attachments": [],
+    "mentions": [
+      {
+        "id": "109309713485808866",
+        "username": "amki",
+        "url": "https://ruhr.social/@amki",
+        "acct": "amki@ruhr.social"
+      }
+    ],
+    "tags": [
+      {
+        "name": "bahnansagen",
+        "url": "https://social.tchncs.de/tags/bahnansagen"
+      }
+    ],
+    "emojis": [],
+    "card": null,
+    "poll": null
+  },
+  {
+    "id": "111795620580480112",
+    "created_at": "2024-01-21T19:36:32.549Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": null,
+    "uri": "https://social.tchncs.de/users/BahnAnsagen/statuses/111795620580480112/activity",
+    "url": "https://social.tchncs.de/users/BahnAnsagen/statuses/111795620580480112/activity",
+    "replies_count": 0,
+    "reblogs_count": 0,
+    "favourites_count": 0,
+    "edited_at": null,
+    "content": "",
+    "reblog": {
+      "id": "111682266337892075",
+      "created_at": "2024-01-01T19:09:04.071Z",
+      "in_reply_to_id": null,
+      "in_reply_to_account_id": null,
+      "sensitive": false,
+      "spoiler_text": "",
+      "visibility": "public",
+      "language": "de",
+      "uri": "https://social.tchncs.de/users/BahnAnsagen/statuses/111682266337892075",
+      "url": "https://social.tchncs.de/@BahnAnsagen/111682266337892075",
+      "replies_count": 2,
+      "reblogs_count": 33,
+      "favourites_count": 165,
+      "edited_at": null,
+      "content": "\u003cp\u003e++ BAHN-ANSAGE DES MONATS, 12/2023 ++\u003c/p\u003e",
+      "reblog": null,
+      "application": null,
+      "account": {
+        "id": "23307",
+        "username": "BahnAnsagen",
+        "acct": "BahnAnsagen",
+        "display_name": "BahnAnsagen",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "group": false,
+        "created_at": "2017-04-10T00:00:00.000Z",
+        "note": "\u003cp\u003e.:Für alle Lautsprecherdurchsagen, die zu schön sind, um vergessen zu werden:. Twitter | Instagram | Facebook | TikTok: \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://social.tchncs.de/@BahnAnsagen\" class=\"u-url mention\"\u003e@\u003cspan\u003eBahnAnsagen\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+        "url": "https://social.tchncs.de/@BahnAnsagen",
+        "uri": "https://social.tchncs.de/users/BahnAnsagen",
+        "avatar": "https://f2.tchncs.de/accounts/avatars/000/023/307/original/4e8b2e0699076621.jpg",
+        "avatar_static": "https://f2.tchncs.de/accounts/avatars/000/023/307/original/4e8b2e0699076621.jpg",
+        "header": "https://f2.tchncs.de/accounts/headers/000/023/307/original/de74795bf470b94e.png",
+        "header_static": "https://f2.tchncs.de/accounts/headers/000/023/307/original/de74795bf470b94e.png",
+        "followers_count": 13757,
+        "following_count": 13,
+        "statuses_count": 728,
+        "last_status_at": "2024-01-23",
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+          {
+            "name": "BahnAnsagen",
+            "value": "\u003ca href=\"http://bahnansagen.de/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttp://\u003c/span\u003e\u003cspan class=\"\"\u003ebahnansagen.de/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+            "verified_at": null
+          }
+        ]
+      },
+      "media_attachments": [
+        {
+          "id": "111682265442421328",
+          "type": "image",
+          "url": "https://f2.tchncs.de/media_attachments/files/111/682/265/442/421/328/original/45c68ea6af29abfe.png",
+          "preview_url": "https://f2.tchncs.de/media_attachments/files/111/682/265/442/421/328/small/45c68ea6af29abfe.png",
+          "remote_url": null,
+          "preview_remote_url": null,
+          "text_url": null,
+          "meta": {
+            "original": {
+              "width": 1024,
+              "height": 512,
+              "size": "1024x512",
+              "aspect": 2.0
+            },
+            "small": {
+              "width": 678,
+              "height": 339,
+              "size": "678x339",
+              "aspect": 2.0
+            },
+            "focus": { "x": 0.0, "y": 0.0 }
+          },
+          "description": "Die \"BahnAnsage des Monats\" Dezember 2023 kommt vom Facebooknutzer Micha Rittmeier und lautet: Im ICE nach München: \"Wenn Sie mich jetzt fragen, was Sie tun sollen: Keine Ahnung. Entweder Sie steigen in Celle aus oder Sie bleiben hier bei uns und ergeben sich in unser gemeinsames Schicksal!\"",
+          "blurhash": "UKRMYue-~qjYbbf+xubb?bj[IUayt7WBj[jZ"
+        }
+      ],
+      "mentions": [],
+      "tags": [],
+      "emojis": [],
+      "card": null,
+      "poll": null
+    },
+    "application": null,
+    "account": {
+      "id": "23307",
+      "username": "BahnAnsagen",
+      "acct": "BahnAnsagen",
+      "display_name": "BahnAnsagen",
+      "locked": false,
+      "bot": false,
+      "discoverable": true,
+      "group": false,
+      "created_at": "2017-04-10T00:00:00.000Z",
+      "note": "\u003cp\u003e.:Für alle Lautsprecherdurchsagen, die zu schön sind, um vergessen zu werden:. Twitter | Instagram | Facebook | TikTok: \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://social.tchncs.de/@BahnAnsagen\" class=\"u-url mention\"\u003e@\u003cspan\u003eBahnAnsagen\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+      "url": "https://social.tchncs.de/@BahnAnsagen",
+      "uri": "https://social.tchncs.de/users/BahnAnsagen",
+      "avatar": "https://f2.tchncs.de/accounts/avatars/000/023/307/original/4e8b2e0699076621.jpg",
+      "avatar_static": "https://f2.tchncs.de/accounts/avatars/000/023/307/original/4e8b2e0699076621.jpg",
+      "header": "https://f2.tchncs.de/accounts/headers/000/023/307/original/de74795bf470b94e.png",
+      "header_static": "https://f2.tchncs.de/accounts/headers/000/023/307/original/de74795bf470b94e.png",
+      "followers_count": 13757,
+      "following_count": 13,
+      "statuses_count": 728,
+      "last_status_at": "2024-01-23",
+      "noindex": false,
+      "emojis": [],
+      "roles": [],
+      "fields": [
+        {
+          "name": "BahnAnsagen",
+          "value": "\u003ca href=\"http://bahnansagen.de/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttp://\u003c/span\u003e\u003cspan class=\"\"\u003ebahnansagen.de/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+          "verified_at": null
+        }
+      ]
+    },
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [],
+    "emojis": [],
+    "card": null,
+    "poll": null
+  },
+  {
+    "id": "111795606036626620",
+    "created_at": "2024-01-21T19:32:50.627Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": null,
+    "uri": "https://social.tchncs.de/users/BahnAnsagen/statuses/111795606036626620/activity",
+    "url": "https://social.tchncs.de/users/BahnAnsagen/statuses/111795606036626620/activity",
+    "replies_count": 0,
+    "reblogs_count": 0,
+    "favourites_count": 0,
+    "edited_at": null,
+    "content": "",
+    "reblog": {
+      "id": "111793679229191157",
+      "created_at": "2024-01-21T11:22:47.000Z",
+      "in_reply_to_id": null,
+      "in_reply_to_account_id": null,
+      "sensitive": false,
+      "spoiler_text": "",
+      "visibility": "public",
+      "language": "de",
+      "uri": "https://troet.cafe/users/regenrinne/statuses/111793679071354239",
+      "url": "https://troet.cafe/@regenrinne/111793679071354239",
+      "replies_count": 4,
+      "reblogs_count": 30,
+      "favourites_count": 4,
+      "edited_at": null,
+      "content": "\u003cp\u003e\"Meine Damen und Herren, wir erreichen Magdeburg Hbf auf Gleis 9 3/4; für die Muggel: Gleis 8.\"\u003c/p\u003e\u003cp\u003eCC: \u003cspan class=\"h-card\"\u003e\u003ca href=\"https://social.tchncs.de/@BahnAnsagen\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e@\u003cspan\u003eBahnAnsagen\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+      "reblog": null,
+      "account": {
+        "id": "109281564949492137",
+        "username": "regenrinne",
+        "acct": "regenrinne@troet.cafe",
+        "display_name": "Die Mooskannel :mastolove:",
+        "locked": false,
+        "bot": false,
+        "discoverable": false,
+        "group": false,
+        "created_at": "2022-11-03T00:00:00.000Z",
+        "note": "\u003cp\u003eIrgendwo zwischen Dresdner Elbtal, Berliner Hinterhof und dem Rest der Welt. \u003c/p\u003e\u003cp\u003eDieses \"Internet\" wird sich eh nicht durchsetzen. Ich glaube an das Pferd 🐴. \u003c/p\u003e\u003cp\u003eIrgendwas mit IT, Fahrplanauskunft und Zügen / Bussen, aber so wirklich weiß ich auch nicht, was ich mache. 😉 \u003c/p\u003e\u003cp\u003eDann lieber 🚴🏻‍♂️. \u003cbr\u003eSucht Ruhe in der Natur. \u003c/p\u003e\u003cp\u003eer/he\u003c/p\u003e",
+        "url": "https://troet.cafe/@regenrinne",
+        "uri": "https://troet.cafe/users/regenrinne",
+        "avatar": "https://f2.tchncs.de/cache/accounts/avatars/109/281/564/949/492/137/original/ebb777c2b91e4ef0.png",
+        "avatar_static": "https://f2.tchncs.de/cache/accounts/avatars/109/281/564/949/492/137/original/ebb777c2b91e4ef0.png",
+        "header": "https://f2.tchncs.de/cache/accounts/headers/109/281/564/949/492/137/original/d9fe4be14b989bd8.png",
+        "header_static": "https://f2.tchncs.de/cache/accounts/headers/109/281/564/949/492/137/original/d9fe4be14b989bd8.png",
+        "followers_count": 79,
+        "following_count": 275,
+        "statuses_count": 1926,
+        "last_status_at": "2024-01-22",
+        "emojis": [
+          {
+            "shortcode": "mastolove",
+            "url": "https://f2.tchncs.de/custom_emojis/images/000/037/392/original/eb4abdda9f82aa08.png",
+            "static_url": "https://f2.tchncs.de/custom_emojis/images/000/037/392/static/eb4abdda9f82aa08.png",
+            "visible_in_picker": true
+          }
+        ],
+        "fields": []
+      },
+      "media_attachments": [
+        {
+          "id": "111793679117865317",
+          "type": "image",
+          "url": "https://f2.tchncs.de/cache/media_attachments/files/111/793/679/117/865/317/original/87ff74fe533b13df.jpg",
+          "preview_url": "https://f2.tchncs.de/cache/media_attachments/files/111/793/679/117/865/317/small/87ff74fe533b13df.jpg",
+          "remote_url": "https://media.troet.cafe/troet.cafe/media_attachments/files/111/793/669/667/584/412/original/5b5cfaee376c7546.jpg",
+          "preview_remote_url": null,
+          "text_url": null,
+          "meta": {
+            "original": {
+              "width": 1686,
+              "height": 1230,
+              "size": "1686x1230",
+              "aspect": 1.3707317073170733
+            },
+            "small": {
+              "width": 562,
+              "height": 410,
+              "size": "562x410",
+              "aspect": 1.3707317073170733
+            }
+          },
+          "description": "Informationsmonitor in einem Zug. In großen Buchstaben steht \"Gleis 9 3/4\", sonst (außer der Uhrzeit) eigentlich nichts.",
+          "blurhash": "ULA1S5j[?9js9HfP9GaxmiWC-=WXROofozoz"
+        }
+      ],
+      "mentions": [
+        {
+          "id": "23307",
+          "username": "BahnAnsagen",
+          "url": "https://social.tchncs.de/@BahnAnsagen",
+          "acct": "BahnAnsagen"
+        }
+      ],
+      "tags": [],
+      "emojis": [],
+      "card": null,
+      "poll": null
+    },
+    "application": null,
+    "account": {
+      "id": "23307",
+      "username": "BahnAnsagen",
+      "acct": "BahnAnsagen",
+      "display_name": "BahnAnsagen",
+      "locked": false,
+      "bot": false,
+      "discoverable": true,
+      "group": false,
+      "created_at": "2017-04-10T00:00:00.000Z",
+      "note": "\u003cp\u003e.:Für alle Lautsprecherdurchsagen, die zu schön sind, um vergessen zu werden:. Twitter | Instagram | Facebook | TikTok: \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://social.tchncs.de/@BahnAnsagen\" class=\"u-url mention\"\u003e@\u003cspan\u003eBahnAnsagen\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+      "url": "https://social.tchncs.de/@BahnAnsagen",
+      "uri": "https://social.tchncs.de/users/BahnAnsagen",
+      "avatar": "https://f2.tchncs.de/accounts/avatars/000/023/307/original/4e8b2e0699076621.jpg",
+      "avatar_static": "https://f2.tchncs.de/accounts/avatars/000/023/307/original/4e8b2e0699076621.jpg",
+      "header": "https://f2.tchncs.de/accounts/headers/000/023/307/original/de74795bf470b94e.png",
+      "header_static": "https://f2.tchncs.de/accounts/headers/000/023/307/original/de74795bf470b94e.png",
+      "followers_count": 13757,
+      "following_count": 13,
+      "statuses_count": 728,
+      "last_status_at": "2024-01-23",
+      "noindex": false,
+      "emojis": [],
+      "roles": [],
+      "fields": [
+        {
+          "name": "BahnAnsagen",
+          "value": "\u003ca href=\"http://bahnansagen.de/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttp://\u003c/span\u003e\u003cspan class=\"\"\u003ebahnansagen.de/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+          "verified_at": null
+        }
+      ]
+    },
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [],
+    "emojis": [],
+    "card": null,
+    "poll": null
+  },
+  {
+    "id": "111793510884709330",
+    "created_at": "2024-01-21T10:40:01.146Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "de",
+    "uri": "https://social.tchncs.de/users/BahnAnsagen/statuses/111793510884709330",
+    "url": "https://social.tchncs.de/@BahnAnsagen/111793510884709330",
+    "replies_count": 2,
+    "reblogs_count": 15,
+    "favourites_count": 69,
+    "edited_at": null,
+    "content": "\u003cp\u003e\u0026quot;Wir sind vor Köln zum Halten gekommen. Der Grund dafür ist, dass der Spitzname unseres Lokführers \u0026#39;Speedy Gonzales\u0026#39; ist und wir daher etwas zu früh unterwegs sind.\u0026quot; (Michael Lammert)  \u003ca href=\"https://social.tchncs.de/tags/BahnAnsagen\" class=\"mention hashtag\" rel=\"tag\"\u003e#\u003cspan\u003eBahnAnsagen\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "reblog": null,
+    "application": { "name": "Buffer", "website": "https://buffer.com" },
+    "account": {
+      "id": "23307",
+      "username": "BahnAnsagen",
+      "acct": "BahnAnsagen",
+      "display_name": "BahnAnsagen",
+      "locked": false,
+      "bot": false,
+      "discoverable": true,
+      "group": false,
+      "created_at": "2017-04-10T00:00:00.000Z",
+      "note": "\u003cp\u003e.:Für alle Lautsprecherdurchsagen, die zu schön sind, um vergessen zu werden:. Twitter | Instagram | Facebook | TikTok: \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://social.tchncs.de/@BahnAnsagen\" class=\"u-url mention\"\u003e@\u003cspan\u003eBahnAnsagen\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+      "url": "https://social.tchncs.de/@BahnAnsagen",
+      "uri": "https://social.tchncs.de/users/BahnAnsagen",
+      "avatar": "https://f2.tchncs.de/accounts/avatars/000/023/307/original/4e8b2e0699076621.jpg",
+      "avatar_static": "https://f2.tchncs.de/accounts/avatars/000/023/307/original/4e8b2e0699076621.jpg",
+      "header": "https://f2.tchncs.de/accounts/headers/000/023/307/original/de74795bf470b94e.png",
+      "header_static": "https://f2.tchncs.de/accounts/headers/000/023/307/original/de74795bf470b94e.png",
+      "followers_count": 13757,
+      "following_count": 13,
+      "statuses_count": 728,
+      "last_status_at": "2024-01-23",
+      "noindex": false,
+      "emojis": [],
+      "roles": [],
+      "fields": [
+        {
+          "name": "BahnAnsagen",
+          "value": "\u003ca href=\"http://bahnansagen.de/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttp://\u003c/span\u003e\u003cspan class=\"\"\u003ebahnansagen.de/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+          "verified_at": null
+        }
+      ]
+    },
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [
+      {
+        "name": "bahnansagen",
+        "url": "https://social.tchncs.de/tags/bahnansagen"
+      }
+    ],
+    "emojis": [],
+    "card": null,
+    "poll": null
+  },
+  {
+    "id": "111787809935526165",
+    "created_at": "2024-01-20T10:30:11.566Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "de",
+    "uri": "https://social.tchncs.de/users/BahnAnsagen/statuses/111787809935526165",
+    "url": "https://social.tchncs.de/@BahnAnsagen/111787809935526165",
+    "replies_count": 1,
+    "reblogs_count": 26,
+    "favourites_count": 90,
+    "edited_at": null,
+    "content": "\u003cp\u003e\u0026quot;Sehr geehrte Fahrgäste des Sardinenexpress\u0026#39;, wir begrüßen alle zugestiegenen Fahrgäste in unserer Konservendose auf dem Weg nach Köln-Hauptbahnhof. Ein Tipp noch von mir an alle, die stehen müssen: In der ersten Klasse sind die Gänge breiter!\u0026quot; (Steffen Wellbrock) \u003ca href=\"https://social.tchncs.de/tags/BahnAnsagen\" class=\"mention hashtag\" rel=\"tag\"\u003e#\u003cspan\u003eBahnAnsagen\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "reblog": null,
+    "application": { "name": "Buffer", "website": "https://buffer.com" },
+    "account": {
+      "id": "23307",
+      "username": "BahnAnsagen",
+      "acct": "BahnAnsagen",
+      "display_name": "BahnAnsagen",
+      "locked": false,
+      "bot": false,
+      "discoverable": true,
+      "group": false,
+      "created_at": "2017-04-10T00:00:00.000Z",
+      "note": "\u003cp\u003e.:Für alle Lautsprecherdurchsagen, die zu schön sind, um vergessen zu werden:. Twitter | Instagram | Facebook | TikTok: \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://social.tchncs.de/@BahnAnsagen\" class=\"u-url mention\"\u003e@\u003cspan\u003eBahnAnsagen\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+      "url": "https://social.tchncs.de/@BahnAnsagen",
+      "uri": "https://social.tchncs.de/users/BahnAnsagen",
+      "avatar": "https://f2.tchncs.de/accounts/avatars/000/023/307/original/4e8b2e0699076621.jpg",
+      "avatar_static": "https://f2.tchncs.de/accounts/avatars/000/023/307/original/4e8b2e0699076621.jpg",
+      "header": "https://f2.tchncs.de/accounts/headers/000/023/307/original/de74795bf470b94e.png",
+      "header_static": "https://f2.tchncs.de/accounts/headers/000/023/307/original/de74795bf470b94e.png",
+      "followers_count": 13757,
+      "following_count": 13,
+      "statuses_count": 728,
+      "last_status_at": "2024-01-23",
+      "noindex": false,
+      "emojis": [],
+      "roles": [],
+      "fields": [
+        {
+          "name": "BahnAnsagen",
+          "value": "\u003ca href=\"http://bahnansagen.de/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttp://\u003c/span\u003e\u003cspan class=\"\"\u003ebahnansagen.de/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+          "verified_at": null
+        }
+      ]
+    },
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [
+      {
+        "name": "bahnansagen",
+        "url": "https://social.tchncs.de/tags/bahnansagen"
+      }
+    ],
+    "emojis": [],
+    "card": null,
+    "poll": null
+  },
+  {
+    "id": "111782107677709724",
+    "created_at": "2024-01-19T10:20:02.015Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "de",
+    "uri": "https://social.tchncs.de/users/BahnAnsagen/statuses/111782107677709724",
+    "url": "https://social.tchncs.de/@BahnAnsagen/111782107677709724",
+    "replies_count": 0,
+    "reblogs_count": 9,
+    "favourites_count": 52,
+    "edited_at": null,
+    "content": "\u003cp\u003eIn München: \u0026quot;Hinter uns ist eine U3, die ist wesentlich leerer. Wer seine Mitfahrer nicht näher kennenlernen möchte, nimmt die. Viel Bewegungsfreiheit nach innen ist nicht mehr.\u0026quot; (@hindl.bsky.social) \u003ca href=\"https://social.tchncs.de/tags/BahnAnsagen\" class=\"mention hashtag\" rel=\"tag\"\u003e#\u003cspan\u003eBahnAnsagen\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "reblog": null,
+    "application": { "name": "Buffer", "website": "https://buffer.com" },
+    "account": {
+      "id": "23307",
+      "username": "BahnAnsagen",
+      "acct": "BahnAnsagen",
+      "display_name": "BahnAnsagen",
+      "locked": false,
+      "bot": false,
+      "discoverable": true,
+      "group": false,
+      "created_at": "2017-04-10T00:00:00.000Z",
+      "note": "\u003cp\u003e.:Für alle Lautsprecherdurchsagen, die zu schön sind, um vergessen zu werden:. Twitter | Instagram | Facebook | TikTok: \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://social.tchncs.de/@BahnAnsagen\" class=\"u-url mention\"\u003e@\u003cspan\u003eBahnAnsagen\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+      "url": "https://social.tchncs.de/@BahnAnsagen",
+      "uri": "https://social.tchncs.de/users/BahnAnsagen",
+      "avatar": "https://f2.tchncs.de/accounts/avatars/000/023/307/original/4e8b2e0699076621.jpg",
+      "avatar_static": "https://f2.tchncs.de/accounts/avatars/000/023/307/original/4e8b2e0699076621.jpg",
+      "header": "https://f2.tchncs.de/accounts/headers/000/023/307/original/de74795bf470b94e.png",
+      "header_static": "https://f2.tchncs.de/accounts/headers/000/023/307/original/de74795bf470b94e.png",
+      "followers_count": 13757,
+      "following_count": 13,
+      "statuses_count": 728,
+      "last_status_at": "2024-01-23",
+      "noindex": false,
+      "emojis": [],
+      "roles": [],
+      "fields": [
+        {
+          "name": "BahnAnsagen",
+          "value": "\u003ca href=\"http://bahnansagen.de/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttp://\u003c/span\u003e\u003cspan class=\"\"\u003ebahnansagen.de/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+          "verified_at": null
+        }
+      ]
+    },
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [
+      {
+        "name": "bahnansagen",
+        "url": "https://social.tchncs.de/tags/bahnansagen"
+      }
+    ],
+    "emojis": [],
+    "card": null,
+    "poll": null
+  },
+  {
+    "id": "111776406045562381",
+    "created_at": "2024-01-18T10:10:02.013Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "de",
+    "uri": "https://social.tchncs.de/users/BahnAnsagen/statuses/111776406045562381",
+    "url": "https://social.tchncs.de/@BahnAnsagen/111776406045562381",
+    "replies_count": 0,
+    "reblogs_count": 12,
+    "favourites_count": 49,
+    "edited_at": null,
+    "content": "\u003cp\u003eWährend des Streiks: \u0026quot;Achten Sie für Ihre Anschlüsse auf die Durchsagen in Nürnberg. Allzu viele sind\u0026#39;s ja nicht.\u0026quot; (@nerdgedanken) \u003ca href=\"https://social.tchncs.de/tags/BahnAnsagen\" class=\"mention hashtag\" rel=\"tag\"\u003e#\u003cspan\u003eBahnAnsagen\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "reblog": null,
+    "application": { "name": "Buffer", "website": "https://buffer.com" },
+    "account": {
+      "id": "23307",
+      "username": "BahnAnsagen",
+      "acct": "BahnAnsagen",
+      "display_name": "BahnAnsagen",
+      "locked": false,
+      "bot": false,
+      "discoverable": true,
+      "group": false,
+      "created_at": "2017-04-10T00:00:00.000Z",
+      "note": "\u003cp\u003e.:Für alle Lautsprecherdurchsagen, die zu schön sind, um vergessen zu werden:. Twitter | Instagram | Facebook | TikTok: \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://social.tchncs.de/@BahnAnsagen\" class=\"u-url mention\"\u003e@\u003cspan\u003eBahnAnsagen\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+      "url": "https://social.tchncs.de/@BahnAnsagen",
+      "uri": "https://social.tchncs.de/users/BahnAnsagen",
+      "avatar": "https://f2.tchncs.de/accounts/avatars/000/023/307/original/4e8b2e0699076621.jpg",
+      "avatar_static": "https://f2.tchncs.de/accounts/avatars/000/023/307/original/4e8b2e0699076621.jpg",
+      "header": "https://f2.tchncs.de/accounts/headers/000/023/307/original/de74795bf470b94e.png",
+      "header_static": "https://f2.tchncs.de/accounts/headers/000/023/307/original/de74795bf470b94e.png",
+      "followers_count": 13757,
+      "following_count": 13,
+      "statuses_count": 728,
+      "last_status_at": "2024-01-23",
+      "noindex": false,
+      "emojis": [],
+      "roles": [],
+      "fields": [
+        {
+          "name": "BahnAnsagen",
+          "value": "\u003ca href=\"http://bahnansagen.de/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttp://\u003c/span\u003e\u003cspan class=\"\"\u003ebahnansagen.de/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+          "verified_at": null
+        }
+      ]
+    },
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [
+      {
+        "name": "bahnansagen",
+        "url": "https://social.tchncs.de/tags/bahnansagen"
+      }
+    ],
+    "emojis": [],
+    "card": null,
+    "poll": null
+  },
+  {
+    "id": "111770724054562778",
+    "created_at": "2024-01-17T10:05:01.712Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "de",
+    "uri": "https://social.tchncs.de/users/BahnAnsagen/statuses/111770724054562778",
+    "url": "https://social.tchncs.de/@BahnAnsagen/111770724054562778",
+    "replies_count": 1,
+    "reblogs_count": 40,
+    "favourites_count": 99,
+    "edited_at": null,
+    "content": "\u003cp\u003e\u0026quot;Schauen Sie mal links und rechts: der Rhein. Dem geht\u0026#39;s wie Ihrem Lokführer. Er hat noch nicht wieder in sein Bett gefunden.\u0026quot; (@zitrone_nj) \u003ca href=\"https://social.tchncs.de/tags/BahnAnsagen\" class=\"mention hashtag\" rel=\"tag\"\u003e#\u003cspan\u003eBahnAnsagen\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "reblog": null,
+    "application": { "name": "Buffer", "website": "https://buffer.com" },
+    "account": {
+      "id": "23307",
+      "username": "BahnAnsagen",
+      "acct": "BahnAnsagen",
+      "display_name": "BahnAnsagen",
+      "locked": false,
+      "bot": false,
+      "discoverable": true,
+      "group": false,
+      "created_at": "2017-04-10T00:00:00.000Z",
+      "note": "\u003cp\u003e.:Für alle Lautsprecherdurchsagen, die zu schön sind, um vergessen zu werden:. Twitter | Instagram | Facebook | TikTok: \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://social.tchncs.de/@BahnAnsagen\" class=\"u-url mention\"\u003e@\u003cspan\u003eBahnAnsagen\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+      "url": "https://social.tchncs.de/@BahnAnsagen",
+      "uri": "https://social.tchncs.de/users/BahnAnsagen",
+      "avatar": "https://f2.tchncs.de/accounts/avatars/000/023/307/original/4e8b2e0699076621.jpg",
+      "avatar_static": "https://f2.tchncs.de/accounts/avatars/000/023/307/original/4e8b2e0699076621.jpg",
+      "header": "https://f2.tchncs.de/accounts/headers/000/023/307/original/de74795bf470b94e.png",
+      "header_static": "https://f2.tchncs.de/accounts/headers/000/023/307/original/de74795bf470b94e.png",
+      "followers_count": 13757,
+      "following_count": 13,
+      "statuses_count": 728,
+      "last_status_at": "2024-01-23",
+      "noindex": false,
+      "emojis": [],
+      "roles": [],
+      "fields": [
+        {
+          "name": "BahnAnsagen",
+          "value": "\u003ca href=\"http://bahnansagen.de/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttp://\u003c/span\u003e\u003cspan class=\"\"\u003ebahnansagen.de/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+          "verified_at": null
+        }
+      ]
+    },
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [
+      {
+        "name": "bahnansagen",
+        "url": "https://social.tchncs.de/tags/bahnansagen"
+      }
+    ],
+    "emojis": [],
+    "card": null,
+    "poll": null
+  },
+  {
+    "id": "111765046245535249",
+    "created_at": "2024-01-16T10:01:05.222Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "de",
+    "uri": "https://social.tchncs.de/users/BahnAnsagen/statuses/111765046245535249",
+    "url": "https://social.tchncs.de/@BahnAnsagen/111765046245535249",
+    "replies_count": 0,
+    "reblogs_count": 23,
+    "favourites_count": 109,
+    "edited_at": null,
+    "content": "\u003cp\u003e\u0026quot;Der TGV nach Paris wird in Mannheim erreicht, da unter glücklichen Umständen sich der Lokführer des Zuges hier bei uns befindet.\u0026quot; (undergroundberlin) \u003ca href=\"https://social.tchncs.de/tags/BahnAnsagen\" class=\"mention hashtag\" rel=\"tag\"\u003e#\u003cspan\u003eBahnAnsagen\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "reblog": null,
+    "application": { "name": "Buffer", "website": "https://buffer.com" },
+    "account": {
+      "id": "23307",
+      "username": "BahnAnsagen",
+      "acct": "BahnAnsagen",
+      "display_name": "BahnAnsagen",
+      "locked": false,
+      "bot": false,
+      "discoverable": true,
+      "group": false,
+      "created_at": "2017-04-10T00:00:00.000Z",
+      "note": "\u003cp\u003e.:Für alle Lautsprecherdurchsagen, die zu schön sind, um vergessen zu werden:. Twitter | Instagram | Facebook | TikTok: \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://social.tchncs.de/@BahnAnsagen\" class=\"u-url mention\"\u003e@\u003cspan\u003eBahnAnsagen\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+      "url": "https://social.tchncs.de/@BahnAnsagen",
+      "uri": "https://social.tchncs.de/users/BahnAnsagen",
+      "avatar": "https://f2.tchncs.de/accounts/avatars/000/023/307/original/4e8b2e0699076621.jpg",
+      "avatar_static": "https://f2.tchncs.de/accounts/avatars/000/023/307/original/4e8b2e0699076621.jpg",
+      "header": "https://f2.tchncs.de/accounts/headers/000/023/307/original/de74795bf470b94e.png",
+      "header_static": "https://f2.tchncs.de/accounts/headers/000/023/307/original/de74795bf470b94e.png",
+      "followers_count": 13757,
+      "following_count": 13,
+      "statuses_count": 728,
+      "last_status_at": "2024-01-23",
+      "noindex": false,
+      "emojis": [],
+      "roles": [],
+      "fields": [
+        {
+          "name": "BahnAnsagen",
+          "value": "\u003ca href=\"http://bahnansagen.de/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttp://\u003c/span\u003e\u003cspan class=\"\"\u003ebahnansagen.de/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+          "verified_at": null
+        }
+      ]
+    },
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [
+      {
+        "name": "bahnansagen",
+        "url": "https://social.tchncs.de/tags/bahnansagen"
+      }
+    ],
+    "emojis": [],
+    "card": null,
+    "poll": null
+  },
+  {
+    "id": "111759301146783553",
+    "created_at": "2024-01-15T09:40:01.972Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "de",
+    "uri": "https://social.tchncs.de/users/BahnAnsagen/statuses/111759301146783553",
+    "url": "https://social.tchncs.de/@BahnAnsagen/111759301146783553",
+    "replies_count": 0,
+    "reblogs_count": 37,
+    "favourites_count": 132,
+    "edited_at": null,
+    "content": "\u003cp\u003e\u0026quot;Hamburg-Altona ist die Endstation, Sie wollen alle aussteigen. Bis ich bei der Deutschen Bahn angefangen habe, wollte ich auch immer wissen, wo der Zug dann hinfährt. Jetzt weiß ich es – und es ist nicht schön!\u0026quot; (\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://climatejustice.rocks/@fabi\" class=\"u-url mention\"\u003e@\u003cspan\u003efabi\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e) \u003ca href=\"https://social.tchncs.de/tags/BahnAnsagen\" class=\"mention hashtag\" rel=\"tag\"\u003e#\u003cspan\u003eBahnAnsagen\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "reblog": null,
+    "application": { "name": "Buffer", "website": "https://buffer.com" },
+    "account": {
+      "id": "23307",
+      "username": "BahnAnsagen",
+      "acct": "BahnAnsagen",
+      "display_name": "BahnAnsagen",
+      "locked": false,
+      "bot": false,
+      "discoverable": true,
+      "group": false,
+      "created_at": "2017-04-10T00:00:00.000Z",
+      "note": "\u003cp\u003e.:Für alle Lautsprecherdurchsagen, die zu schön sind, um vergessen zu werden:. Twitter | Instagram | Facebook | TikTok: \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://social.tchncs.de/@BahnAnsagen\" class=\"u-url mention\"\u003e@\u003cspan\u003eBahnAnsagen\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+      "url": "https://social.tchncs.de/@BahnAnsagen",
+      "uri": "https://social.tchncs.de/users/BahnAnsagen",
+      "avatar": "https://f2.tchncs.de/accounts/avatars/000/023/307/original/4e8b2e0699076621.jpg",
+      "avatar_static": "https://f2.tchncs.de/accounts/avatars/000/023/307/original/4e8b2e0699076621.jpg",
+      "header": "https://f2.tchncs.de/accounts/headers/000/023/307/original/de74795bf470b94e.png",
+      "header_static": "https://f2.tchncs.de/accounts/headers/000/023/307/original/de74795bf470b94e.png",
+      "followers_count": 13757,
+      "following_count": 13,
+      "statuses_count": 728,
+      "last_status_at": "2024-01-23",
+      "noindex": false,
+      "emojis": [],
+      "roles": [],
+      "fields": [
+        {
+          "name": "BahnAnsagen",
+          "value": "\u003ca href=\"http://bahnansagen.de/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttp://\u003c/span\u003e\u003cspan class=\"\"\u003ebahnansagen.de/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+          "verified_at": null
+        }
+      ]
+    },
+    "media_attachments": [],
+    "mentions": [
+      {
+        "id": "110374711102632762",
+        "username": "fabi",
+        "url": "https://climatejustice.rocks/@fabi",
+        "acct": "fabi@climatejustice.rocks"
+      }
+    ],
+    "tags": [
+      {
+        "name": "bahnansagen",
+        "url": "https://social.tchncs.de/tags/bahnansagen"
+      }
+    ],
+    "emojis": [],
+    "card": null,
+    "poll": null
+  },
+  {
+    "id": "111753914092834622",
+    "created_at": "2024-01-14T10:50:02.051Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "de",
+    "uri": "https://social.tchncs.de/users/BahnAnsagen/statuses/111753914092834622",
+    "url": "https://social.tchncs.de/@BahnAnsagen/111753914092834622",
+    "replies_count": 4,
+    "reblogs_count": 58,
+    "favourites_count": 132,
+    "edited_at": null,
+    "content": "\u003cp\u003eIn Göttingen: \u0026quot;Ich weiß nicht, wie ich Ihnen das jetzt vermitteln soll, aber: Es wurde für die Weiterfahrt nach Berlin kein Personal eingeplant. Die Fahrt endet hier leider.\u0026quot; (@ruthyberlin) \u003ca href=\"https://social.tchncs.de/tags/BahnAnsagen\" class=\"mention hashtag\" rel=\"tag\"\u003e#\u003cspan\u003eBahnAnsagen\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "reblog": null,
+    "application": { "name": "Buffer", "website": "https://buffer.com" },
+    "account": {
+      "id": "23307",
+      "username": "BahnAnsagen",
+      "acct": "BahnAnsagen",
+      "display_name": "BahnAnsagen",
+      "locked": false,
+      "bot": false,
+      "discoverable": true,
+      "group": false,
+      "created_at": "2017-04-10T00:00:00.000Z",
+      "note": "\u003cp\u003e.:Für alle Lautsprecherdurchsagen, die zu schön sind, um vergessen zu werden:. Twitter | Instagram | Facebook | TikTok: \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://social.tchncs.de/@BahnAnsagen\" class=\"u-url mention\"\u003e@\u003cspan\u003eBahnAnsagen\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+      "url": "https://social.tchncs.de/@BahnAnsagen",
+      "uri": "https://social.tchncs.de/users/BahnAnsagen",
+      "avatar": "https://f2.tchncs.de/accounts/avatars/000/023/307/original/4e8b2e0699076621.jpg",
+      "avatar_static": "https://f2.tchncs.de/accounts/avatars/000/023/307/original/4e8b2e0699076621.jpg",
+      "header": "https://f2.tchncs.de/accounts/headers/000/023/307/original/de74795bf470b94e.png",
+      "header_static": "https://f2.tchncs.de/accounts/headers/000/023/307/original/de74795bf470b94e.png",
+      "followers_count": 13757,
+      "following_count": 13,
+      "statuses_count": 728,
+      "last_status_at": "2024-01-23",
+      "noindex": false,
+      "emojis": [],
+      "roles": [],
+      "fields": [
+        {
+          "name": "BahnAnsagen",
+          "value": "\u003ca href=\"http://bahnansagen.de/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttp://\u003c/span\u003e\u003cspan class=\"\"\u003ebahnansagen.de/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+          "verified_at": null
+        }
+      ]
+    },
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [
+      {
+        "name": "bahnansagen",
+        "url": "https://social.tchncs.de/tags/bahnansagen"
+      }
+    ],
+    "emojis": [],
+    "card": null,
+    "poll": null
+  },
+  {
+    "id": "111748212450455228",
+    "created_at": "2024-01-13T10:40:01.893Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "de",
+    "uri": "https://social.tchncs.de/users/BahnAnsagen/statuses/111748212450455228",
+    "url": "https://social.tchncs.de/@BahnAnsagen/111748212450455228",
+    "replies_count": 0,
+    "reblogs_count": 11,
+    "favourites_count": 56,
+    "edited_at": null,
+    "content": "\u003cp\u003eIm RE: \u0026quot;So, meine Damen und Herren, wie Sie merken – wir stehen hier kurz vor Crailsheim. Der Grund ist: Crailsheim hat leider zu wenige Bahnsteige für uns.\u0026quot; (Christina Thom) \u003ca href=\"https://social.tchncs.de/tags/BahnAnsagen\" class=\"mention hashtag\" rel=\"tag\"\u003e#\u003cspan\u003eBahnAnsagen\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "reblog": null,
+    "application": { "name": "Buffer", "website": "https://buffer.com" },
+    "account": {
+      "id": "23307",
+      "username": "BahnAnsagen",
+      "acct": "BahnAnsagen",
+      "display_name": "BahnAnsagen",
+      "locked": false,
+      "bot": false,
+      "discoverable": true,
+      "group": false,
+      "created_at": "2017-04-10T00:00:00.000Z",
+      "note": "\u003cp\u003e.:Für alle Lautsprecherdurchsagen, die zu schön sind, um vergessen zu werden:. Twitter | Instagram | Facebook | TikTok: \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://social.tchncs.de/@BahnAnsagen\" class=\"u-url mention\"\u003e@\u003cspan\u003eBahnAnsagen\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+      "url": "https://social.tchncs.de/@BahnAnsagen",
+      "uri": "https://social.tchncs.de/users/BahnAnsagen",
+      "avatar": "https://f2.tchncs.de/accounts/avatars/000/023/307/original/4e8b2e0699076621.jpg",
+      "avatar_static": "https://f2.tchncs.de/accounts/avatars/000/023/307/original/4e8b2e0699076621.jpg",
+      "header": "https://f2.tchncs.de/accounts/headers/000/023/307/original/de74795bf470b94e.png",
+      "header_static": "https://f2.tchncs.de/accounts/headers/000/023/307/original/de74795bf470b94e.png",
+      "followers_count": 13757,
+      "following_count": 13,
+      "statuses_count": 728,
+      "last_status_at": "2024-01-23",
+      "noindex": false,
+      "emojis": [],
+      "roles": [],
+      "fields": [
+        {
+          "name": "BahnAnsagen",
+          "value": "\u003ca href=\"http://bahnansagen.de/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttp://\u003c/span\u003e\u003cspan class=\"\"\u003ebahnansagen.de/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+          "verified_at": null
+        }
+      ]
+    },
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [
+      {
+        "name": "bahnansagen",
+        "url": "https://social.tchncs.de/tags/bahnansagen"
+      }
+    ],
+    "emojis": [],
+    "card": null,
+    "poll": null
+  },
+  {
+    "id": "111742511375588348",
+    "created_at": "2024-01-12T10:30:10.394Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "de",
+    "uri": "https://social.tchncs.de/users/BahnAnsagen/statuses/111742511375588348",
+    "url": "https://social.tchncs.de/@BahnAnsagen/111742511375588348",
+    "replies_count": 1,
+    "reblogs_count": 22,
+    "favourites_count": 76,
+    "edited_at": null,
+    "content": "\u003cp\u003e\u0026quot;Dieser Zug hat heute außerplanmäßig in Darmstadt gehalten. Reisende, die weiter nach Darmstadt wollen, können hier in Darmstadt aussteigen.\u0026quot; (@GebanTuterkoj) \u003ca href=\"https://social.tchncs.de/tags/BahnAnsagen\" class=\"mention hashtag\" rel=\"tag\"\u003e#\u003cspan\u003eBahnAnsagen\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "reblog": null,
+    "application": { "name": "Buffer", "website": "https://buffer.com" },
+    "account": {
+      "id": "23307",
+      "username": "BahnAnsagen",
+      "acct": "BahnAnsagen",
+      "display_name": "BahnAnsagen",
+      "locked": false,
+      "bot": false,
+      "discoverable": true,
+      "group": false,
+      "created_at": "2017-04-10T00:00:00.000Z",
+      "note": "\u003cp\u003e.:Für alle Lautsprecherdurchsagen, die zu schön sind, um vergessen zu werden:. Twitter | Instagram | Facebook | TikTok: \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://social.tchncs.de/@BahnAnsagen\" class=\"u-url mention\"\u003e@\u003cspan\u003eBahnAnsagen\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+      "url": "https://social.tchncs.de/@BahnAnsagen",
+      "uri": "https://social.tchncs.de/users/BahnAnsagen",
+      "avatar": "https://f2.tchncs.de/accounts/avatars/000/023/307/original/4e8b2e0699076621.jpg",
+      "avatar_static": "https://f2.tchncs.de/accounts/avatars/000/023/307/original/4e8b2e0699076621.jpg",
+      "header": "https://f2.tchncs.de/accounts/headers/000/023/307/original/de74795bf470b94e.png",
+      "header_static": "https://f2.tchncs.de/accounts/headers/000/023/307/original/de74795bf470b94e.png",
+      "followers_count": 13757,
+      "following_count": 13,
+      "statuses_count": 728,
+      "last_status_at": "2024-01-23",
+      "noindex": false,
+      "emojis": [],
+      "roles": [],
+      "fields": [
+        {
+          "name": "BahnAnsagen",
+          "value": "\u003ca href=\"http://bahnansagen.de/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttp://\u003c/span\u003e\u003cspan class=\"\"\u003ebahnansagen.de/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+          "verified_at": null
+        }
+      ]
+    },
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [
+      {
+        "name": "bahnansagen",
+        "url": "https://social.tchncs.de/tags/bahnansagen"
+      }
+    ],
+    "emojis": [],
+    "card": null,
+    "poll": null
+  },
+  {
+    "id": "111736828851481029",
+    "created_at": "2024-01-11T10:25:01.957Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "de",
+    "uri": "https://social.tchncs.de/users/BahnAnsagen/statuses/111736828851481029",
+    "url": "https://social.tchncs.de/@BahnAnsagen/111736828851481029",
+    "replies_count": 2,
+    "reblogs_count": 27,
+    "favourites_count": 87,
+    "edited_at": null,
+    "content": "\u003cp\u003eIm ICE: \u0026quot;Heute ist der richtige Tag, um die guten Vorsätze für das neue Jahr über Bord zu werfen. Dann können Sie sich im Bordrestaurant die Verspätung schöntrinken!\u0026quot; (@czigenhorn) \u003ca href=\"https://social.tchncs.de/tags/BahnAnsagen\" class=\"mention hashtag\" rel=\"tag\"\u003e#\u003cspan\u003eBahnAnsagen\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "reblog": null,
+    "application": { "name": "Buffer", "website": "https://buffer.com" },
+    "account": {
+      "id": "23307",
+      "username": "BahnAnsagen",
+      "acct": "BahnAnsagen",
+      "display_name": "BahnAnsagen",
+      "locked": false,
+      "bot": false,
+      "discoverable": true,
+      "group": false,
+      "created_at": "2017-04-10T00:00:00.000Z",
+      "note": "\u003cp\u003e.:Für alle Lautsprecherdurchsagen, die zu schön sind, um vergessen zu werden:. Twitter | Instagram | Facebook | TikTok: \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://social.tchncs.de/@BahnAnsagen\" class=\"u-url mention\"\u003e@\u003cspan\u003eBahnAnsagen\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+      "url": "https://social.tchncs.de/@BahnAnsagen",
+      "uri": "https://social.tchncs.de/users/BahnAnsagen",
+      "avatar": "https://f2.tchncs.de/accounts/avatars/000/023/307/original/4e8b2e0699076621.jpg",
+      "avatar_static": "https://f2.tchncs.de/accounts/avatars/000/023/307/original/4e8b2e0699076621.jpg",
+      "header": "https://f2.tchncs.de/accounts/headers/000/023/307/original/de74795bf470b94e.png",
+      "header_static": "https://f2.tchncs.de/accounts/headers/000/023/307/original/de74795bf470b94e.png",
+      "followers_count": 13757,
+      "following_count": 13,
+      "statuses_count": 728,
+      "last_status_at": "2024-01-23",
+      "noindex": false,
+      "emojis": [],
+      "roles": [],
+      "fields": [
+        {
+          "name": "BahnAnsagen",
+          "value": "\u003ca href=\"http://bahnansagen.de/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttp://\u003c/span\u003e\u003cspan class=\"\"\u003ebahnansagen.de/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+          "verified_at": null
+        }
+      ]
+    },
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [
+      {
+        "name": "bahnansagen",
+        "url": "https://social.tchncs.de/tags/bahnansagen"
+      }
+    ],
+    "emojis": [],
+    "card": null,
+    "poll": null
+  },
+  {
+    "id": "111731127315153302",
+    "created_at": "2024-01-10T10:15:03.418Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "de",
+    "uri": "https://social.tchncs.de/users/BahnAnsagen/statuses/111731127315153302",
+    "url": "https://social.tchncs.de/@BahnAnsagen/111731127315153302",
+    "replies_count": 0,
+    "reblogs_count": 11,
+    "favourites_count": 45,
+    "edited_at": null,
+    "content": "\u003cp\u003e\u0026quot;Werte Fahrgäste, da sich die Tür vor Ihnen nicht öffnen lässt, benutzen Sie bitte eine beliebige andere. Der Bahnsteig und der Zug vertragen sich nicht so gut.\u0026quot; (@zwiesinn) \u003ca href=\"https://social.tchncs.de/tags/BahnAnsagen\" class=\"mention hashtag\" rel=\"tag\"\u003e#\u003cspan\u003eBahnAnsagen\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "reblog": null,
+    "application": { "name": "Buffer", "website": "https://buffer.com" },
+    "account": {
+      "id": "23307",
+      "username": "BahnAnsagen",
+      "acct": "BahnAnsagen",
+      "display_name": "BahnAnsagen",
+      "locked": false,
+      "bot": false,
+      "discoverable": true,
+      "group": false,
+      "created_at": "2017-04-10T00:00:00.000Z",
+      "note": "\u003cp\u003e.:Für alle Lautsprecherdurchsagen, die zu schön sind, um vergessen zu werden:. Twitter | Instagram | Facebook | TikTok: \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://social.tchncs.de/@BahnAnsagen\" class=\"u-url mention\"\u003e@\u003cspan\u003eBahnAnsagen\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+      "url": "https://social.tchncs.de/@BahnAnsagen",
+      "uri": "https://social.tchncs.de/users/BahnAnsagen",
+      "avatar": "https://f2.tchncs.de/accounts/avatars/000/023/307/original/4e8b2e0699076621.jpg",
+      "avatar_static": "https://f2.tchncs.de/accounts/avatars/000/023/307/original/4e8b2e0699076621.jpg",
+      "header": "https://f2.tchncs.de/accounts/headers/000/023/307/original/de74795bf470b94e.png",
+      "header_static": "https://f2.tchncs.de/accounts/headers/000/023/307/original/de74795bf470b94e.png",
+      "followers_count": 13757,
+      "following_count": 13,
+      "statuses_count": 728,
+      "last_status_at": "2024-01-23",
+      "noindex": false,
+      "emojis": [],
+      "roles": [],
+      "fields": [
+        {
+          "name": "BahnAnsagen",
+          "value": "\u003ca href=\"http://bahnansagen.de/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttp://\u003c/span\u003e\u003cspan class=\"\"\u003ebahnansagen.de/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+          "verified_at": null
+        }
+      ]
+    },
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [
+      {
+        "name": "bahnansagen",
+        "url": "https://social.tchncs.de/tags/bahnansagen"
+      }
+    ],
+    "emojis": [],
+    "card": null,
+    "poll": null
+  },
+  {
+    "id": "111725445217007039",
+    "created_at": "2024-01-09T10:10:01.481Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "de",
+    "uri": "https://social.tchncs.de/users/BahnAnsagen/statuses/111725445217007039",
+    "url": "https://social.tchncs.de/@BahnAnsagen/111725445217007039",
+    "replies_count": 1,
+    "reblogs_count": 11,
+    "favourites_count": 49,
+    "edited_at": null,
+    "content": "\u003cp\u003e\u0026quot;Bitte beachten Sie für den Halt in Ingolstadt: Wir werden einen außerplanmäßigen Gleiswechsel haben, sodass die linke Seite des Zugs am Bahnsteig ist. Grund hierfür ist: Wir müssen eine Außenscheibe abkleben.\u0026quot; (Lena Berreiter) \u003ca href=\"https://social.tchncs.de/tags/BahnAnsagen\" class=\"mention hashtag\" rel=\"tag\"\u003e#\u003cspan\u003eBahnAnsagen\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "reblog": null,
+    "application": { "name": "Buffer", "website": "https://buffer.com" },
+    "account": {
+      "id": "23307",
+      "username": "BahnAnsagen",
+      "acct": "BahnAnsagen",
+      "display_name": "BahnAnsagen",
+      "locked": false,
+      "bot": false,
+      "discoverable": true,
+      "group": false,
+      "created_at": "2017-04-10T00:00:00.000Z",
+      "note": "\u003cp\u003e.:Für alle Lautsprecherdurchsagen, die zu schön sind, um vergessen zu werden:. Twitter | Instagram | Facebook | TikTok: \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://social.tchncs.de/@BahnAnsagen\" class=\"u-url mention\"\u003e@\u003cspan\u003eBahnAnsagen\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+      "url": "https://social.tchncs.de/@BahnAnsagen",
+      "uri": "https://social.tchncs.de/users/BahnAnsagen",
+      "avatar": "https://f2.tchncs.de/accounts/avatars/000/023/307/original/4e8b2e0699076621.jpg",
+      "avatar_static": "https://f2.tchncs.de/accounts/avatars/000/023/307/original/4e8b2e0699076621.jpg",
+      "header": "https://f2.tchncs.de/accounts/headers/000/023/307/original/de74795bf470b94e.png",
+      "header_static": "https://f2.tchncs.de/accounts/headers/000/023/307/original/de74795bf470b94e.png",
+      "followers_count": 13757,
+      "following_count": 13,
+      "statuses_count": 728,
+      "last_status_at": "2024-01-23",
+      "noindex": false,
+      "emojis": [],
+      "roles": [],
+      "fields": [
+        {
+          "name": "BahnAnsagen",
+          "value": "\u003ca href=\"http://bahnansagen.de/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttp://\u003c/span\u003e\u003cspan class=\"\"\u003ebahnansagen.de/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+          "verified_at": null
+        }
+      ]
+    },
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [
+      {
+        "name": "bahnansagen",
+        "url": "https://social.tchncs.de/tags/bahnansagen"
+      }
+    ],
+    "emojis": [],
+    "card": null,
+    "poll": null
+  },
+  {
+    "id": "111719704274448354",
+    "created_at": "2024-01-08T09:50:01.649Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "de",
+    "uri": "https://social.tchncs.de/users/BahnAnsagen/statuses/111719704274448354",
+    "url": "https://social.tchncs.de/@BahnAnsagen/111719704274448354",
+    "replies_count": 0,
+    "reblogs_count": 5,
+    "favourites_count": 46,
+    "edited_at": null,
+    "content": "\u003cp\u003e\u0026quot;Ich wünsche Ihnen ein erfolgreiches und gesundes neues Jahr. Lassen Sie alle Ihre Träume und Wünsche in Erfüllung gehen! Ein Traum und Wunsch ist ja für Sie schon in Erfüllung gegangen – nämlich dass Sie in der ODEG sitzen und mit uns fahren!\u0026quot; (Colin) \u003ca href=\"https://social.tchncs.de/tags/BahnAnsagen\" class=\"mention hashtag\" rel=\"tag\"\u003e#\u003cspan\u003eBahnAnsagen\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "reblog": null,
+    "application": { "name": "Buffer", "website": "https://buffer.com" },
+    "account": {
+      "id": "23307",
+      "username": "BahnAnsagen",
+      "acct": "BahnAnsagen",
+      "display_name": "BahnAnsagen",
+      "locked": false,
+      "bot": false,
+      "discoverable": true,
+      "group": false,
+      "created_at": "2017-04-10T00:00:00.000Z",
+      "note": "\u003cp\u003e.:Für alle Lautsprecherdurchsagen, die zu schön sind, um vergessen zu werden:. Twitter | Instagram | Facebook | TikTok: \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://social.tchncs.de/@BahnAnsagen\" class=\"u-url mention\"\u003e@\u003cspan\u003eBahnAnsagen\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+      "url": "https://social.tchncs.de/@BahnAnsagen",
+      "uri": "https://social.tchncs.de/users/BahnAnsagen",
+      "avatar": "https://f2.tchncs.de/accounts/avatars/000/023/307/original/4e8b2e0699076621.jpg",
+      "avatar_static": "https://f2.tchncs.de/accounts/avatars/000/023/307/original/4e8b2e0699076621.jpg",
+      "header": "https://f2.tchncs.de/accounts/headers/000/023/307/original/de74795bf470b94e.png",
+      "header_static": "https://f2.tchncs.de/accounts/headers/000/023/307/original/de74795bf470b94e.png",
+      "followers_count": 13757,
+      "following_count": 13,
+      "statuses_count": 728,
+      "last_status_at": "2024-01-23",
+      "noindex": false,
+      "emojis": [],
+      "roles": [],
+      "fields": [
+        {
+          "name": "BahnAnsagen",
+          "value": "\u003ca href=\"http://bahnansagen.de/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttp://\u003c/span\u003e\u003cspan class=\"\"\u003ebahnansagen.de/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+          "verified_at": null
+        }
+      ]
+    },
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [
+      {
+        "name": "bahnansagen",
+        "url": "https://social.tchncs.de/tags/bahnansagen"
+      }
+    ],
+    "emojis": [],
+    "card": null,
+    "poll": null
+  },
+  {
+    "id": "111714277869361970",
+    "created_at": "2024-01-07T10:50:01.278Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "de",
+    "uri": "https://social.tchncs.de/users/BahnAnsagen/statuses/111714277869361970",
+    "url": "https://social.tchncs.de/@BahnAnsagen/111714277869361970",
+    "replies_count": 1,
+    "reblogs_count": 17,
+    "favourites_count": 68,
+    "edited_at": null,
+    "content": "\u003cp\u003e\u0026quot;Sehr geehrte Fahrgäste, wo wir grade in Essen waren: Wir freuen uns über Ihren Besuch im Bordrestaurant und begrüßen Sie zu einem Frühstück!\u0026quot; (@teilzeitourist) \u003ca href=\"https://social.tchncs.de/tags/BahnAnsagen\" class=\"mention hashtag\" rel=\"tag\"\u003e#\u003cspan\u003eBahnAnsagen\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "reblog": null,
+    "application": { "name": "Buffer", "website": "https://buffer.com" },
+    "account": {
+      "id": "23307",
+      "username": "BahnAnsagen",
+      "acct": "BahnAnsagen",
+      "display_name": "BahnAnsagen",
+      "locked": false,
+      "bot": false,
+      "discoverable": true,
+      "group": false,
+      "created_at": "2017-04-10T00:00:00.000Z",
+      "note": "\u003cp\u003e.:Für alle Lautsprecherdurchsagen, die zu schön sind, um vergessen zu werden:. Twitter | Instagram | Facebook | TikTok: \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://social.tchncs.de/@BahnAnsagen\" class=\"u-url mention\"\u003e@\u003cspan\u003eBahnAnsagen\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+      "url": "https://social.tchncs.de/@BahnAnsagen",
+      "uri": "https://social.tchncs.de/users/BahnAnsagen",
+      "avatar": "https://f2.tchncs.de/accounts/avatars/000/023/307/original/4e8b2e0699076621.jpg",
+      "avatar_static": "https://f2.tchncs.de/accounts/avatars/000/023/307/original/4e8b2e0699076621.jpg",
+      "header": "https://f2.tchncs.de/accounts/headers/000/023/307/original/de74795bf470b94e.png",
+      "header_static": "https://f2.tchncs.de/accounts/headers/000/023/307/original/de74795bf470b94e.png",
+      "followers_count": 13757,
+      "following_count": 13,
+      "statuses_count": 728,
+      "last_status_at": "2024-01-23",
+      "noindex": false,
+      "emojis": [],
+      "roles": [],
+      "fields": [
+        {
+          "name": "BahnAnsagen",
+          "value": "\u003ca href=\"http://bahnansagen.de/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttp://\u003c/span\u003e\u003cspan class=\"\"\u003ebahnansagen.de/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+          "verified_at": null
+        }
+      ]
+    },
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [
+      {
+        "name": "bahnansagen",
+        "url": "https://social.tchncs.de/tags/bahnansagen"
+      }
+    ],
+    "emojis": [],
+    "card": null,
+    "poll": null
+  },
+  {
+    "id": "111708536911066266",
+    "created_at": "2024-01-06T10:30:01.206Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "de",
+    "uri": "https://social.tchncs.de/users/BahnAnsagen/statuses/111708536911066266",
+    "url": "https://social.tchncs.de/@BahnAnsagen/111708536911066266",
+    "replies_count": 0,
+    "reblogs_count": 8,
+    "favourites_count": 58,
+    "edited_at": null,
+    "content": "\u003cp\u003e\u0026quot;Mir kam zu Ohren, dass es Fahrgäste gibt, die Reservierungen für den 30er-Teil haben: Den Zugteil gibt es heute nicht. Das ist mir auch nicht so ganz schlüssig. Suchen Sie sich erstmal Plätze, dann sehen wir weiter.\u0026quot; (@annalist) \u003ca href=\"https://social.tchncs.de/tags/BahnAnsagen\" class=\"mention hashtag\" rel=\"tag\"\u003e#\u003cspan\u003eBahnAnsagen\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "reblog": null,
+    "application": { "name": "Buffer", "website": "https://buffer.com" },
+    "account": {
+      "id": "23307",
+      "username": "BahnAnsagen",
+      "acct": "BahnAnsagen",
+      "display_name": "BahnAnsagen",
+      "locked": false,
+      "bot": false,
+      "discoverable": true,
+      "group": false,
+      "created_at": "2017-04-10T00:00:00.000Z",
+      "note": "\u003cp\u003e.:Für alle Lautsprecherdurchsagen, die zu schön sind, um vergessen zu werden:. Twitter | Instagram | Facebook | TikTok: \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://social.tchncs.de/@BahnAnsagen\" class=\"u-url mention\"\u003e@\u003cspan\u003eBahnAnsagen\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+      "url": "https://social.tchncs.de/@BahnAnsagen",
+      "uri": "https://social.tchncs.de/users/BahnAnsagen",
+      "avatar": "https://f2.tchncs.de/accounts/avatars/000/023/307/original/4e8b2e0699076621.jpg",
+      "avatar_static": "https://f2.tchncs.de/accounts/avatars/000/023/307/original/4e8b2e0699076621.jpg",
+      "header": "https://f2.tchncs.de/accounts/headers/000/023/307/original/de74795bf470b94e.png",
+      "header_static": "https://f2.tchncs.de/accounts/headers/000/023/307/original/de74795bf470b94e.png",
+      "followers_count": 13757,
+      "following_count": 13,
+      "statuses_count": 728,
+      "last_status_at": "2024-01-23",
+      "noindex": false,
+      "emojis": [],
+      "roles": [],
+      "fields": [
+        {
+          "name": "BahnAnsagen",
+          "value": "\u003ca href=\"http://bahnansagen.de/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttp://\u003c/span\u003e\u003cspan class=\"\"\u003ebahnansagen.de/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+          "verified_at": null
+        }
+      ]
+    },
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [
+      {
+        "name": "bahnansagen",
+        "url": "https://social.tchncs.de/tags/bahnansagen"
+      }
+    ],
+    "emojis": [],
+    "card": null,
+    "poll": null
+  }
+]
+
