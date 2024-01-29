@@ -1,11 +1,10 @@
 use crate::prelude::*;
 use chrono::{DateTime, Utc};
-use std::{
-    collections::HashMap,
-    sync::{Arc, Mutex},
+use std::{collections::HashMap, sync::Arc};
+use tokio::{
+    sync::Mutex,
+    time::{sleep, Duration},
 };
-use tokio::time::{sleep, Duration};
-use tracing::{info, warn};
 
 pub type Toots = Arc<Mutex<HashMap<String, Toot>>>;
 
@@ -17,21 +16,31 @@ pub struct TootIn {
 }
 
 pub struct Toot {
-    id: String,
-    content: String,
-    created_at: DateTime<Utc>,
-    served: bool,
+    pub id: String,
+    pub content: String,
+    pub created_at: DateTime<Utc>,
+    pub served: bool,
 }
 
 impl Toot {
-    pub fn try_from_toot_in(toot: TootIn) -> Result<Self> {
+    pub fn try_from_toot_in(toot: TootIn) -> Result<Self, Error> {
         let content = html_escape::decode_html_entities(&toot.content).to_string();
         let content = html2text::from_read(content.as_bytes(), 80).to_string();
-        let content = content.split("\"").collect::<Vec<_>>();
-        if content.len() < 2 {
-            bail!("failed to parse toot content between \"");
-        }
-        let content = content[1].to_string();
+        let content = if std::env::var("EXTRACT_TEXT_BETWEEN_DOUBLE_QUOTES")
+            .unwrap_or_else(|_| "false".into())
+            == "true"
+        {
+            info!("extracting text between double quotes");
+            let content = content.split("\"").collect::<Vec<_>>();
+            if content.len() < 2 {
+                return Err(Error::BadRequest(
+                    "failed to parse toot with double quotes".to_string(),
+                ));
+            }
+            content[1].to_string()
+        } else {
+            content
+        };
 
         Ok(Self {
             id: toot.id,
@@ -40,17 +49,13 @@ impl Toot {
             served: false,
         })
     }
-
-    pub fn content(&self) -> String {
-        self.content.clone()
-    }
 }
 
 pub async fn list(account_url: String, toots: Toots) -> Result<()> {
     let client = reqwest::Client::new();
 
     loop {
-        sleep(Duration::from_secs(3)).await;
+        sleep(Duration::from_secs(1)).await;
 
         info!("fetching toots from {account_url}");
 
@@ -65,20 +70,21 @@ pub async fn list(account_url: String, toots: Toots) -> Result<()> {
             .filter(|toot| toot.content.len() > 10)
             .collect::<Vec<_>>();
 
-        let Ok(mut toots) = toots.lock() else {
-            error!("failed to lock toots");
-            continue;
-        };
-        for toot in resp {
-            let Ok(toot) = Toot::try_from_toot_in(toot) else {
-                warn!("failed to parse toot");
-                continue;
-            };
+        {
+            let mut toots = toots.lock().await;
+            for toot in resp {
+                let Ok(toot) = Toot::try_from_toot_in(toot) else {
+                    warn!("failed to parse toot");
+                    continue;
+                };
 
-            if !toots.contains_key(&toot.id) {
-                info!("new toot: {}", toot.content);
-                toots.insert(toot.id.clone(), toot);
+                if !toots.contains_key(&toot.id) {
+                    info!("new toot: {}", toot.content);
+                    toots.insert(toot.id.clone(), toot);
+                }
             }
         }
+
+        sleep(Duration::from_secs(3600)).await;
     }
 }
